@@ -1,0 +1,12 @@
+* {
+    font-family: sans-serif;
+}
+
+.container {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Not quite sure how to add spaces like shown in the desired outcome. */

@@ -1,27 +1,42 @@
-body {
-  background: #eee;
-  font-family: sans-serif;
+* {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.card {
-  width: 400px;
-  background: #fff;
-  margin: 16px auto;
+.one {
+  background-color: #d4ebf2;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  padding: 8px;
+  text-align: center;
 }
 
-.title {
-  background: #e3f4ff;
+.two {
+  background-color: #d4ebf2;
+  margin-bottom: 8px;
+  padding: 8px;
+  text-align: center;
 }
 
-.content {
-  background: #e3f4ff;
+.three {
+  background-color: #d4ebf2;
+  padding: 8px;
+  text-align: center;
 }
 
 .button-container {
-  background: #e3f4ff;
+  text-align: center;
+  padding: 8px;
+  margin-top: 8px;
+  margin-bottom: auto;
+  background-color: #d4ebf2;
 }
 
+/* Don't forget that block stacks! And text-align doesn't work for buttons (or blocks?)*/
+
 button {
-  background: white;
-  border: 1px solid #eee;
+  display: block;
+  margin: auto;
+  padding: 8px 24px;
+  border: white;
 }

@@ -1,0 +1,31 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.first-element {
+    color: #000000;
+    background-color: #FFC0CB
+}
+
+.second-element {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.third-element {
+    font-size: 24px;
+    color: #000000;
+    background-color: #FFC0CB
+}
+
+.fourth-element {
+    font-size: 24px;
+    color: #000000;
+    background-color: #90EE90;
+    font-weight: bold;
+}
+
+.fifth-element {
+    color: #000000;
+    background-color: #FFC0CB
+}
